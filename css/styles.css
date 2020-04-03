@@ -1,29 +1,57 @@
 body {
   background-image: url(../img/background.jpg);
   background-size: 100vmax;
-  padding: 150px;
-  margin-top: -100px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
 
 h1 {
   font-family: 'Luckiest Guy', cursive;
   color: white;
   font-size: 100px;
+  text-align: center;
+  margin-bottom: -30px;
 }
 
 h2 {
+  padding-top: -100px;
   font-family: 'Open Sans', sans-serif;
-  /* color: aliceblue; */
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 
 .btn {
-  margin-top: 10px;
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
-  text-align: center;
-  padding: 10px;
+  margin-left: 45%;
+  margin-bottom: 20px;
 }
 
 .form-control {
-  width: 400px;;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
+
+.form-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#output {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  font-family: 'Luckiest Guy', cursive;
+  text-align: center;
+}
+
