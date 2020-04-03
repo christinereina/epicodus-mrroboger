@@ -13,11 +13,12 @@ h1 {
   font-size: 75px;
   text-align: center;
   margin-bottom: -30px;
+  
 }
 
 h2 {
-  padding-top: -100px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 60px;
   text-align: center;
 }
 
@@ -29,6 +30,7 @@ h3 {
 .btn-light {
   font-size: 15px;
   font-family: 'Open Sans', sans-serif; 
+  margin-left: 10px;
 }
 
 .form-control {
@@ -46,10 +48,11 @@ h3 {
 }
 
 #output {
-  font-size: 40px;
+  font-size: 30px;
   font-family: 'Luckiest Guy', cursive;
   text-align: center;
-  color: #ED7571;
+  color: white;
+  padding: 30px;
 }
 
 .no-show {
@@ -66,9 +69,10 @@ img {
 }
 
 .buttons {
-  display: block;
-  margin-left: 40%;
-  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5px;
 }
 
 .btn-primary {
