@@ -33,9 +33,13 @@ function robot(userInput) {
 // user interface logic below
 
 $(document).ready(function() {
-  $("#form").submit(function(event) {
-    event.preventDefault();
+  $("#neighborhood").click(function(event){
+  // $(".intro").slideToggle(".second-screen");
+  $(".second-screen").slideToggle(".no-show");
+  });
 
+  $("#form").submit(function(event) {
+      event.preventDefault();
     var userInput = parseInt($("input#user").val());
     var result = robot(userInput);
     $("#output").text(result);

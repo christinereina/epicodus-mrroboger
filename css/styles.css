@@ -53,6 +53,10 @@ h3 {
   text-align: center;
 }
 
+.no-show {
+  display: none;
+}
+
 img {
   width: 250px;
   height: auto;
@@ -63,6 +67,6 @@ img {
 
 .buttons {
   display: block;
-  margin-left: 35%;
+  margin-left: 33%;
   margin-right: auto;
 }

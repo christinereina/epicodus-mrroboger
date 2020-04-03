@@ -12,9 +12,12 @@
     <title> Welcome to the Neighborhood </title>
   </head>
   <body>
-    <div class="container">
+    <div class="intro">
     <h1><em>Hi!</em><p>I'm Mr. Roboger.</h1></p>
     <img src="./img/rogers.png" alt="mr rogers">
+    <button type="submit" class="btn btn-primary" id="neighborhood">Enter the Neighborhood</button>
+    </div>
+    <div class="second-screen no-show">
   <h2>Welcome to the neighborhood!</h2>
   <h3>Enter a number to have a friendly chat with me!</h3>
     <form id="form">
@@ -23,10 +26,11 @@
         <input id="user" class="form-control" type="text">
       </div>
       <div class="buttons">                               
-        <button class="btn btn-light" type="submit">Submit</button>
-        <span id="button"><button class="btn btn-light" type="click">Again, please!</button></span></p>
+        <button class="btn btn-light" type="submit">Hello, there!</button>
+        <span id="button"><button class="btn btn-light" type="click">Again, please.</button></span></p>
       </div>
     </form>
     <div id="output"></div>
+  </div>
   </body>
   </html>
