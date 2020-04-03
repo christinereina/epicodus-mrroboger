@@ -34,8 +34,8 @@ function robot(userInput) {
 
 $(document).ready(function() {
   $("#neighborhood").click(function(event){
-  // $(".intro").slideToggle(".second-screen");
-  $(".second-screen").fadeToggle();
+  $(".intro").slideUp(".no-show");
+  $(".second-screen").slideDown(".no-show");
   });
 
   $("#form").submit(function(event) {
