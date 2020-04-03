@@ -1,6 +1,6 @@
-# [Mr. Roboger's Neighborhood](https://christinereina.github.io/epicodus-mrroboger/)
+# [Mr. Roboger's Neighborhood](https://christinereina.github.io/epicodus-mrroboger/) 🏠
 
-#### Epicodus Week Three Arrays & Looping Independent Project | Mr. Roboger's Neighborhood, 04.02.2020
+#### Epicodus Week Three Arrays & Looping Independent Project | Mr. Roboger's Neighborhood, 04.03.2020
 
 #### By _**Christine Augustine**_
 
