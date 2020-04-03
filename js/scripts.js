@@ -41,7 +41,7 @@ $(document).ready(function() {
     $("#output").text(result);
 
   });
-  $('.btn1').click(function(){
+  $('#button').click(function(){
     location.reload();
 });
 });
