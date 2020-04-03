@@ -1,4 +1,4 @@
-# [Mr. Roboger's Neighborhood](https://christinereina.github.io/epicodus-numberology/)
+# [Mr. Roboger's Neighborhood](https://christinereina.github.io/epicodus-mrroboger/)
 
 #### Epicodus Week Three Arrays & Looping Independent Project | Mr. Roboger's Neighborhood, 04.02.2020
 
@@ -23,7 +23,7 @@ Clone the project's github repository from your computer's Terminal (make sure y
 
 Open folder and drag/drop the index.html file into your preferred web browser
 
-Alternatively, you can also view the webpage by clicking [here](https://github.com/christinereina/epicodus-mrroboger)
+Alternatively, you can also view the webpage by clicking [here](https://christinereina.github.io/epicodus-mrroboger/)
 
 Lastly, enjoy my site!
 

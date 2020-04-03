@@ -1,24 +1,25 @@
 body {
-  /* background-image: url(../img/patrick-robert-doyle-yUvZYHV2Zbw-unsplash.jpg);
-  background-size: 100%; */
-  padding: 180px;
+  background-image: url(../img/background.jpg);
+  background-size: 100%;
+  padding: 150px;
+  margin-top: 50px;
 }
 
 h1 {
-  font-family: 'Ultra', serif;
-  /* color: white; */
+  font-family: 'Luckiest Guy', cursive;
+  color: white;
   font-size: 100px;
 }
 
 h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   /* color: aliceblue; */
 }
 
 .btn {
   margin-top: 10px;
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
   padding: 10px;
 }
