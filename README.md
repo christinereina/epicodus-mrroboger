@@ -27,6 +27,22 @@ Alternatively, you can also view the webpage by clicking [here](https://github.c
 
 Lastly, enjoy my site!
 
+## Specifications
+
+| Behavior       | Input         | Output  |
+| ------------- |:-------------:| -----:|
+| User enters "1" and digits are replaced (all digits) with "Hello!" | 1 | Hello! |
+| User enters "2" and digits are replaced (all digits) with "Boop!" |  2 | Boop!  |
+| User enters "3" and digits are replaced (all digits) with "Won't you be my neighbor?" |  3 | Won't you be my neighbor?  |
+| User enters "4" (above rules apply) |  4 | 0, Beep!, Boop, Won't you be my neighbor?, 4, |
+
+These exceptions are written from least to most important. The first exception should apply unless the second exception does, and the same with the second and third.
+
+| Behavior       | Input         | Output  |
+| ------------- |:-------------:| -----:|
+| User enters "13" and digits are replaced (all digits) with "Won't you be my neighbor?" | 13 | Won't you be my neighbor?|
+| User enters "21" and digits are replaced (all digits) with "Boop!" |  21 | Boop!  |
+
 ## Known Bugs
 
 n/a
