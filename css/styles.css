@@ -62,6 +62,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 20px;
 }
 
 .buttons {
@@ -72,6 +73,8 @@ img {
 
 .btn-primary {
   font-family: 'Open Sans', sans-serif;
-  margin-left: 33%;
+  font-size: 20px;
+  margin-left: 29%;
   margin-right: auto;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
 }
