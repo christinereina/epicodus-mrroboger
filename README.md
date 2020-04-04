@@ -5,10 +5,10 @@
 #### By _**Christine Augustine**_
 
 ## Preview
-<!-- 
-![Landing Page Preview](./img/livepreview.png)
 
-**[View Live Preview](https://github.com/christinereina/epicodus-mrroboger)** -->
+![Landing Page Preview](./img/preview.png)
+
+**[View Live Preview](https://christinereina.github.io/epicodus-mrroboger/)**
 
 ## Description
 
