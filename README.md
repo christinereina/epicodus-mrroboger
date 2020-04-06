@@ -34,7 +34,7 @@ Lastly, enjoy my site!
 | User enters "1" and digits are replaced (all digits) with "Hello!" | 1 | Hello! |
 | User enters "2" and digits are replaced (all digits) with "Boop!" |  2 | Boop!  |
 | User enters "3" and digits are replaced (all digits) with "Won't you be my neighbor?" |  3 | Won't you be my neighbor?  |
-| User enters "4" (above rules apply) |  4 | 0, Beep!, Boop, Won't you be my neighbor?, 4, |
+| User enters "4" (above rules apply) |  4 | Beep!, Boop, Won't you be my neighbor?, 4, |
 
 These exceptions are written from least to most important. The first exception should apply unless the second exception does, and the same with the second and third.
 
