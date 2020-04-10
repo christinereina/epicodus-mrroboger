@@ -4,9 +4,9 @@ function robot(userInput) {
 
   var messages = ["Beep", "Boop", "Wont you be my neighbor"];
   var list = [];
-
+  
   for (var i = 1; i <= userInput; i++) {
-    var numbers = i.toString();
+    var numbers = i.toString().split("");
     if (numbers.includes("1")) {
       list.push(messages[0]);
     } else if (numbers.includes("2")) {
@@ -24,8 +24,8 @@ function robot(userInput) {
 
 $(document).ready(function() {
   $("#neighborhood").click(function(event){
-  $(".intro").slideUp(".no-show");
-  $(".second-screen").slideDown(".no-show");
+  $(".intro").hide();
+  $(".second-screen").show();
   });
 
   $("#form").submit(function(event) {

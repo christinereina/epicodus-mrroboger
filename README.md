@@ -40,8 +40,7 @@ These exceptions are written from least to most important. The first exception s
 
 | Behavior       | Input         | Output  |
 | ------------- |:-------------:| -----:|
-| User enters "13" and digits are replaced (all digits) with "Won't you be my neighbor?" | 13 | Won't you be my neighbor?|
-| User enters "21" and digits are replaced (all digits) with "Boop!" |  21 | Boop!  |
+| User enters "13" and digits are replaced (all digits) with "beep, boop, won't you be my neighbor?,4,5,6...13" | 13 | Won't you be my neighbor?|
 
 ## Known Bugs
 
